@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Mike-eki.
+# 👋 Hi, I’m @Mike-eki.
 
 ## 👀 I’m interested in:
 -  Web 🌐
@@ -6,7 +6,7 @@
 -  AI 🤖
 -  Game Development 👾
 
-##🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 - Typescrypt 🔵
 - React ⚛️
 - Astro 🚀
