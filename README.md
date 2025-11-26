@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Mike-eki.
-- 👀 I’m interested in Web & Game Dev 🖥️🌐👾.
-- 🌱 I’m currently learning React, SQL and NoSQL databases.
-- 💞️ I’m looking to collaborate on Front-end projects.
-- 📫 To reach me just chat with me on social media or email, is up to you 😁.
+#👋 Hi, I’m @Mike-eki.
+## 👀 I’m interested in:
+-  Web 🌐
+-  Cloud ☁️
+-  AI 🤖
+-  Game Development 👾
+##🌱 I’m currently learning:
+- Typescrypt 🔵
+- React ⚛️
+- Astro 🚀
+- NodeJS 🟢
+- Oracle Cloud Infrastructure 🔴
+- C# and .NET environment 🟣
+## 💞️ I’m looking to collaborate on Fullstack projects.
+## 📫 To reach me here on Github and [LinkedIn](https://www.linkedin.com/in/miqueas-moreno) 😁.
 
 <!---
 Mike-eki/Mike-eki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
